@@ -14,3 +14,9 @@ I definitely didn't make it as far as I'd liked thanks to some snags with Postgr
 
 I was perhaps too rushed pressing forward in attempt to get to the user model, when I could've started TDD.
 
+I was relying heavily on the master branch, whereas separate 'develop' and 'deploy' branches would've been more appropriate.
+
+## See it live
+
+[Recordly](http://jrapp-recordly.herokuapp.com)
+
