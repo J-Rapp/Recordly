@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: Recordly_production
-  username: Recordly
-  password: <%= ENV['RECORDLY_DATABASE_PASSWORD'] %>
+  database: Recordly
+  username: <%= ENV['DATABASE_USERNAME'] %>
+  password: <%= ENV['DATABASE_PASSWORD'] %>
