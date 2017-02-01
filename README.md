@@ -6,7 +6,7 @@ Okie doke, roughly 1 hour in and dev/prod are both set up. Time to work on tests
 
 ## 2 hour mark
 
-I left off working on my feature/registration branch. I started creating a simple AJAX call to render the form for user#new. Once that was built, I was going to start with mthe User model and migration, using Bcrypt for authentication.
+I left off working on my feature/registration branch. I started creating a simple AJAX call to render the form for user#new. Once that was built, I was going to start on the User model/migration, using Bcrypt for authentication.
 
 ## Reflection
 
